@@ -68,6 +68,8 @@ disqusShortname = "XXX"
     shareTwitter = true
     shareFacebook = true
     shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
